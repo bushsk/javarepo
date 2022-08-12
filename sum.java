@@ -4,7 +4,7 @@ public class sum
 public static void main(String args[])  
 {  
 int x, y, sum;  
-x=2;
+x=5;
 y=5;
  
 /*x = Integer.parseInt(System.getenv("a"));  
