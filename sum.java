@@ -5,7 +5,7 @@ public static void main(String args[])
 {  
 int x, y, sum;  
 x=2;
-y=3;
+y=5;
  
 /*x = Integer.parseInt(System.getenv("a"));  
 
